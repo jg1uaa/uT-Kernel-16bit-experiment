@@ -1,0 +1,5 @@
+micro T-Kernel (uT-Kernel) experimental port
+It supports H8/3664 - 16bit(H8/300L) mode.
+
+It is strongly recommend to download official source code package from
+T-Engine Forum Download Center (http://www.t-engine.org/download/).
