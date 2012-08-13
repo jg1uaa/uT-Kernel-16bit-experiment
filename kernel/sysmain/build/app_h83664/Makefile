@@ -17,11 +17,6 @@
 #	sysmain (system-dependent description)
 #
 
-BD = /home/uaa/utk3/utkernel_source.16
-GNU_BD = /usr/local
-TOOL_ORIGIN = GNUh8300
-GNUh8300 = /usr/local/h8300-elf
-
 # T-Engine type
 MACHINE = h83664
 TETYPE	= app
